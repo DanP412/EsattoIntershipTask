@@ -1,36 +1,20 @@
-# EsattoIntershipTask
+## Download the Application
 
-Download the Application
 To download the application, follow these steps:
 
-Open a command prompt or terminal window.
+- Go to the repository on GitHub.
+- Click on the "Code" button and select "Download ZIP".
+- Save the ZIP file to your computer.
+- Extract the contents of the ZIP file to a directory of your choice.
 
-Navigate to the directory where you want to save the application.
+## Run the Application
 
-Clone the repository using the following command:
-
-bash
-Copy code
-git clone https://github.com/DanP412/EsattoIntershipTask.git
-Replace username with the GitHub username and repository with the name of the repository.
-
-Run the Application
 To run the application, follow these steps:
 
-Open a command prompt or terminal window.
+- Open a command prompt or terminal window.
+- Navigate to the directory where you extracted the files.
+- Run the application using the following command:
 
-Navigate to the directory where you saved the application.
-
-Run the following command to install the application dependencies:
-
-Copy code
-npm install
-Run the following command to start the application:
-
-sql
-Copy code
-npm start
-The application should now start running in the console.
-
-Conclusion
-You have successfully downloaded and run the console application from this repository. If you encounter any issues, please refer to the README file for troubleshooting tips or contact the repository owner for assistance.
+```
+./EsattoIntershipTask.sln
+```
